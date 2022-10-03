@@ -72,42 +72,5 @@ const styles = StyleSheet.create({
         borderTopLeftRadius: 30,
         borderTopRightRadius: 30
     },
-    info:{
-        padding: 20,
-        borderBottomLeftRadius: 30,
-        borderBottomRightRadius: 30,
-    },
-    title:{
-        fontSize: 20,
-        fontWeight: "bold",
-        
-    },
-    description:{
-        fontSize: 16,
-        fontWeight: "500",
-        marginTop: 10,
-        
-    },
-    authorDateContainer:{
-        flexDirection: "row",
-        justifyContent: "space-between",
-        marginTop: 10,
-        width: "100%",
-        flexWrap: "wrap"
-    },
-    author:{
-        fontSize: 15,
-        fontWeight: "bold",
-    },
-    date:{
-        fontSize: 15,
-        fontWeight: "bold",
-        
-        
-    },
-    sourceText:{
-        fontSize: 18,
-        fontWeight: "bold",
-        
-    }
+   
 })
